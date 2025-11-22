@@ -1,0 +1,7 @@
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\bin\Debug\MGTM_32_Antano_Dickaus_L3.exe.config
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\bin\Debug\MGTM_32_Antano_Dickaus_L3.exe
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\bin\Debug\MGTM_32_Antano_Dickaus_L3.pdb
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\obj\Debug\MGTM_32_Antano_Dickaus_L3.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\obj\Debug\MGTM_32_Antano_Dickaus_L3.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\obj\Debug\MGTM_32_Antano_Dickaus_L3.exe
+C:\Users\dariu\Desktop\objektinis\P4\MGTM_32_Antano_Dickaus_L3\obj\Debug\MGTM_32_Antano_Dickaus_L3.pdb

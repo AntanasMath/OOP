@@ -1,0 +1,7 @@
+﻿Matematikos ir gamtos mokslu fakultetas
+Marciulionis Matas MGDMI-3/1 3 10 10 10
+Bartkus Augustas MGDMI-3/1 5 10 10 10 10 10
+Ivanovas Astijus MGDMI-3/2 3 10 10 10
+Arnasius Mazvydas MGDMI-3/2 2 10 10
+Kapezinskas Povilas MGDMI-3/2 1 10
+Gurauskas Nojus MGDMI-3/1 3 10 10 10

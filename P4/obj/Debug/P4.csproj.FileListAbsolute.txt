@@ -1,0 +1,7 @@
+C:\Users\dariu\Desktop\objektinis\P4\bin\Debug\P4.exe.config
+C:\Users\dariu\Desktop\objektinis\P4\bin\Debug\P4.exe
+C:\Users\dariu\Desktop\objektinis\P4\bin\Debug\P4.pdb
+C:\Users\dariu\Desktop\objektinis\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\objektinis\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\objektinis\P4\obj\Debug\P4.exe
+C:\Users\dariu\Desktop\objektinis\P4\obj\Debug\P4.pdb

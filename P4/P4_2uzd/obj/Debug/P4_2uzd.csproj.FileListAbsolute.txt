@@ -1,0 +1,7 @@
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\bin\Debug\P4_2uzd.exe.config
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\bin\Debug\P4_2uzd.exe
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\bin\Debug\P4_2uzd.pdb
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\obj\Debug\P4_2uzd.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\obj\Debug\P4_2uzd.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\obj\Debug\P4_2uzd.exe
+C:\Users\dariu\Desktop\objektinis\P4\P4_2uzd\obj\Debug\P4_2uzd.pdb
